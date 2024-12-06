@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard signed math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"EducationalStakingNFT_flattened.sol": "SignedMath"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"EducationalStakingNFT_flattened.sol": {
+			"keccak256": "0x3dea21bb55c30e535d901a9eb9645b95fa51b3e9a3b782b80baf01f0c88ffdb2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c12669ff36aab8cfd40b4d3127e5f6fcdbbdbb325289ea3b45b998f0bc06b58b",
+				"dweb:/ipfs/QmNhgU8YESEXSUMsexnVh46nrtcB5jJrypYRwfHvNMDDaS"
+			]
+		}
+	},
+	"version": 1
+}
